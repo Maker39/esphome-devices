@@ -4,5 +4,5 @@ date-published: 2024-11-03
 type: sensor
 standard: eu
 board: esp8266
-difficulty: 3: Disassembly required
+difficulty: 3
 ---
