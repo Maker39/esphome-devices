@@ -6,5 +6,8 @@ standard: eu
 board: esp8266
 difficulty: 3
 ---
+
+## Images
 ![PCB top](TOP.jpg "PCB top")
 ![PCB BOTTOM](BOTTOM.jpg "PCB BOTTOM")
+## Description
