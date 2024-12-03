@@ -7,3 +7,4 @@ board: esp8266
 difficulty: 3
 ---
 ![PCB top](TOP.jpg "PCB top")
+![PCB BOTTOM](BOTTOM.jpg "PCB BOTTOM")
