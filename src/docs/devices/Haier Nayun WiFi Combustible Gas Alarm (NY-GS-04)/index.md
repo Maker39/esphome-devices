@@ -6,3 +6,4 @@ standard: eu
 board: esp8266
 difficulty: 3
 ---
+![PCB top](TOP.jpg "PCB top")
